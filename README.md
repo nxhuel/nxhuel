@@ -3,7 +3,7 @@
 > Self-taught programming and English student.
 
 ## SOCIALS
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>https://www.linkedin.com/in/nahuel-tisera-ab3864219/
+> ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>https://www.linkedin.com/in/nahuel-tisera-ab3864219/
 
 ## TECH STACK
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
