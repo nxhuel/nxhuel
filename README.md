@@ -23,5 +23,6 @@
 > ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 ## GITHUB STATS
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 [![](https://visitcount.itsvg.in/api?id=nxhuel&icon=0&color=0)](https://visitcount.itsvg.in)
