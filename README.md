@@ -1,8 +1,8 @@
-## About Me
+## ABOUT ME
 > Second year systems analyst student. <br/>
 > Self-taught programming and English student.
 
-## Socials
+## SOCIALS
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>https://www.linkedin.com/in/nahuel-tisera-ab3864219/
 
 # 💻 Tech Stack:
