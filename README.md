@@ -21,7 +21,7 @@
 
 ###
 
-# My GitHub Stats
+<h2 align="left"> My GitHub Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
