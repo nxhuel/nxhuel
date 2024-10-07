@@ -1,8 +1,28 @@
-<h2 align="left">Skills</h2>
 
-###
 
-<div align="left">
+
+### Hey 👋, I'm Nahuel
+
+[![Github](https://img.shields.io/github/followers/nxhuel?label=Follow&style=social)](https://github.com/nxhuel)
+
+I'm a systems analyst and back-end developer, passionate about solving complicated problems and creating software solutions ☕. I'm Open Source and therefore I enjoy working on interesting open source projects.
+> Soy un analista de sistemas y desarrollador back-end, apasionado por resolver problemas complicados y crear soluciones de software ☕. Soy Open Source y por lo tanto disfruto trabajando en proyectos interesantes de código abierto.
+
+<!-- Dark Mode -->
+<div align="center"> 
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nxhuel&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Nauhel Staa's Language stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nxhuel&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Nahuel Staa's Github stats" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Skills -->
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
@@ -19,12 +39,3 @@
   <img width="12" />
 </div>
 
-###
-
-<h2 align="left"> My GitHub Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats&theme=dark)
-
-###
