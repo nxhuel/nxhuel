@@ -2,7 +2,6 @@
 
 I'm a software developer focused on **backend development**, **software architecture**, and **cloud computing**. I’m passionate about building **scalable**, **efficient**, and **robust** systems while learning and sharing knowledge with the tech community.
 
----
 
 ## 🛠️ Tech Stack
 
