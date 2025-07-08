@@ -2,7 +2,6 @@
 
 I'm a software developer focused on **backend development**, **software architecture**, and **cloud computing**. I’m passionate about building **scalable**, **efficient**, and **robust** systems while learning and sharing knowledge with the tech community.
 
-
 ## 🛠️ Tech Stack
 
 **💻 Backend:** C#, ASP.NET Core, Entity Framework Core  
@@ -11,21 +10,15 @@ I'm a software developer focused on **backend development**, **software architec
 **🔗 APIs & Distributed Systems:** REST, Microservices  
 **⚙️ DevOps & Tools:** Docker, CI/CD, GitHub Actions  
 
----
-
 ## 📌 Currently working on:
 
-- 🔹 System design and architecture  
-- 🔹 Exploring machine learning and LLMs  
-- 🔹 Improving my technical and conversational English  
-
----
+-  System design and architecture  
+-  Exploring machine learning and LLMs  
+-  Improving my technical and conversational English  
 
 ## 🎯 My mission
 
 To build **solid**, **maintainable**, and **high-performance** solutions that effectively solve real-world challenges.
-
----
 
 ## 💼 Let's connect
 
@@ -33,7 +26,6 @@ To build **solid**, **maintainable**, and **high-performance** solutions that ef
 **📫 Always open to new ideas, collaborations, and exciting projects.** Let’s connect! 🚀
 
 ---
-<!-- Skills -->
 
 <div align="center">
   <!-- C# -->
