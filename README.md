@@ -1,25 +1,37 @@
+# 👋 ¡Hola! Soy Nahuel Tisera
 
+Desarrollador de software enfocado en **backend**, **arquitectura de software** y **computación en la nube**. Me apasiona construir sistemas **escalables**, **eficientes** y **robustos**, mientras aprendo y comparto conocimientos con la comunidad.
 
+---
 
-### Hey 👋, I'm Nahuel, from Buenos Aires, Argentina 🇦🇷 ⭐⭐⭐
+## 🛠️ Tech Stack
 
-[![Github](https://img.shields.io/github/followers/nxhuel?label=Follow&style=social)](https://github.com/nxhuel)
+**💻 Backend:** C#, ASP.NET Core, Entity Framework Core  
+**🌐 Frontend:** Angular, TypeScript, HTML, CSS, SCSS, Bootstrap  
+**☁️ Cloud:** Microsoft Azure  
+**🔗 APIs y Sistemas Distribuidos:** REST, Microservicios  
+**⚙️ DevOps y Herramientas:** Docker, CI/CD, GitHub Actions  
 
-I'm a systems analyst and back-end developer, passionate about solving complicated problems and creating software solutions ☕. I'm Open Source and therefore I enjoy working on interesting open source projects.
-> Soy un analista de sistemas y desarrollador back-end, apasionado por resolver problemas complicados y crear soluciones de software ☕. Soy Open Source y por lo tanto disfruto trabajando en proyectos interesantes de código abierto.
+---
 
-<!-- Dark Mode -->
+## 📌 Actualmente trabajando en:
 
-📚 Bachelor's Student in Data Science - UNSAM
-🚀  Tech Leader Frontend @ Incubator
-🖥️  Personal website
-🧉 Drinking mate 24/7
+- 🔹 Diseño y arquitectura de sistemas  
+- 🔹 Explorando aprendizaje automático (ML) y modelos LLMs  
+- 🔹 Mejorando mi inglés técnico y conversacional  
 
-<br/>
-Social - Contact
-You could contact me by different ways:
+---
 
-LinkedIn - X - Email
+## 🎯 Mi misión
+
+Construir soluciones **sólidas**, **mantenibles** y **de alto rendimiento** capaces de resolver desafíos del mundo real con eficiencia.
+
+---
+
+## 💼 Contacto
+
+**LinkedIn:** [tisera-nahuel](https://www.linkedin.com/in/tisera-nahuel-ab3864219/)  
+**📫 Siempre abierto a nuevas ideas, colaboraciones y proyectos que inspiren.** ¡Conectemos! 🚀
 
 <!-- Skills -->
 
