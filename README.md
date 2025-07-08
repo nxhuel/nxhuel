@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Nahuel Tisera
+# 👋 Hi there! I'm Nahuel Tisera
 
-Desarrollador de software enfocado en **backend**, **arquitectura de software** y **computación en la nube**. Me apasiona construir sistemas **escalables**, **eficientes** y **robustos**, mientras aprendo y comparto conocimientos con la comunidad.
+I'm a software developer focused on **backend development**, **software architecture**, and **cloud computing**. I’m passionate about building **scalable**, **efficient**, and **robust** systems while learning and sharing knowledge with the tech community.
 
 ---
 
@@ -9,30 +9,31 @@ Desarrollador de software enfocado en **backend**, **arquitectura de software** 
 **💻 Backend:** C#, ASP.NET Core, Entity Framework Core  
 **🌐 Frontend:** Angular, TypeScript, HTML, CSS, SCSS, Bootstrap  
 **☁️ Cloud:** Microsoft Azure  
-**🔗 APIs y Sistemas Distribuidos:** REST, Microservicios  
-**⚙️ DevOps y Herramientas:** Docker, CI/CD, GitHub Actions  
+**🔗 APIs & Distributed Systems:** REST, Microservices  
+**⚙️ DevOps & Tools:** Docker, CI/CD, GitHub Actions  
 
 ---
 
-## 📌 Actualmente trabajando en:
+## 📌 Currently working on:
 
-- 🔹 Diseño y arquitectura de sistemas  
-- 🔹 Explorando aprendizaje automático (ML) y modelos LLMs  
-- 🔹 Mejorando mi inglés técnico y conversacional  
-
----
-
-## 🎯 Mi misión
-
-Construir soluciones **sólidas**, **mantenibles** y **de alto rendimiento** capaces de resolver desafíos del mundo real con eficiencia.
+- 🔹 System design and architecture  
+- 🔹 Exploring machine learning and LLMs  
+- 🔹 Improving my technical and conversational English  
 
 ---
 
-## 💼 Contacto
+## 🎯 My mission
+
+To build **solid**, **maintainable**, and **high-performance** solutions that effectively solve real-world challenges.
+
+---
+
+## 💼 Let's connect
 
 **LinkedIn:** [tisera-nahuel](https://www.linkedin.com/in/tisera-nahuel-ab3864219/)  
-**📫 Siempre abierto a nuevas ideas, colaboraciones y proyectos que inspiren.** ¡Conectemos! 🚀
+**📫 Always open to new ideas, collaborations, and exciting projects.** Let’s connect! 🚀
 
+---
 <!-- Skills -->
 
 <div align="center">
