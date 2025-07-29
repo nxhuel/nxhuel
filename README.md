@@ -5,8 +5,8 @@
 I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
 - 📚 Systems Analysis Student - IFTS 21
-- 🖥️ [Personal website]([https://portfoliofe-ten.vercel.app/portfolio])
-- 📝 [Personal blog]([https://dev.to/nxhuel]))
+- 🖥️ [Personal website](https://portfoliofe-ten.vercel.app/portfolio)
+- 📝 [Personal blog](https://dev.to/nxhuel)
 - 🧉 Drinking mate 24/7
 
 ## Technologies 
