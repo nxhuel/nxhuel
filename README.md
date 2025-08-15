@@ -11,10 +11,10 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 ## Technologies 
 
-- *Java* (Java 8/17/21)
-- *Spring Ecosystem* (Spring Boot, Spring MVC, Spring Data JPA, Spring Security, JWT, OAuth2)
-- *Testing* JUnit 5 - Mockito - Postman - Swagger/OpenAPI
-- *Databases* MySQL - SQL Server - MongoDB
+- **Java** (Java 8/17/21)
+- **Spring Ecosystem** (Spring Boot, Spring MVC, Spring Data JPA, Spring Security, JWT, OAuth2)
+- **Testing** JUnit 5 - Mockito - Postman - Swagger/OpenAPI
+- **Databases** MySQL - SQL Server - MongoDB
 - **Virtualization / Containerization** Docker
 - **Cloud** Azure - Vercel
 - **Version Control** Git - GitHub - GitLab
