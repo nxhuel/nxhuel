@@ -10,21 +10,23 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 - 🧉 Drinking mate 24/7
 
 ## Technologies 
-- **C#** (.NET 6/7/8)
-- **ASP.NET Core** (API REST, MVC, Identity, JWT, OAuth2)
-- **Entity Framework Core** (Code First, Migrations, LINQ, AutoMapper)
-- **Testing** xUnit - Postman - Swagger
-- **BBDD** SQLServer - Oracle - MySQL - MongoDB
-- **Virtualización** Docker
-- **Cloud** Azure
-- **Control De Veriones** Git - Github - GitLab
-- **App Web** HTML5, CSS3, SCSS, Typescript, Angular, Bootstrap
+
+- *Java* (Java 8/17/21)
+- *Spring Ecosystem* (Spring Boot, Spring MVC, Spring Data JPA, Spring Security, JWT, OAuth2)
+- *Testing* JUnit 5 - Mockito - Postman - Swagger/OpenAPI
+- *Databases* MySQL - SQL Server - MongoDB
+- **Virtualization / Containerization** Docker
+- **Cloud** Azure - Vercel
+- **Version Control** Git - GitHub - GitLab
+- **Frontend / Web** HTML5, CSS3, SCSS, Typescript, Angular, Bootstrap
 
 ## My Latest Blog Post
 
-📦 In progress...
-
 📝 In progress...
+
+📦 [C# en Linux](https://dev.to/nxhuel/c-y-aspnet-core-en-linux-solucion-recomendada-3ano)
+📦 [¿@Builder de Lombok no funciona?](https://dev.to/nxhuel/builder-de-lombok-no-funciona-aca-la-solucion-que-me-salvo-1ddf)
+
 
 ## Contact
 [Email](nahueltisera03@gmail.com) - [LinkedIn](https://www.linkedin.com/in/\tisera-nahuel-ab3864219/)
