@@ -1,9 +1,3 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
-
-###
-
 # Nahuel TISERA
 
 ## Sobre mí
@@ -15,12 +9,12 @@ Soy Nahuel. Apasionado en la solución de problemas orientada al desarrollo web,
 
 ## Stack Tecnológico
 
-- **Java** (Java 8/17/21)
-- **Ecosistema de Spring** (Spring Boot, Spring Data JPA, Spring Security, JWT, OAuth2, Spring Cloud)
-- **Testing** JUnit 5 - Mockito - Postman - Swagger/OpenAPI
-- **Base de Datos** MySQL - SQL Server - MongoDB
+- **C#**
+- **Ecosistema .NET** Backend (ASP.NET Core, Minimal APIs / Web API, Entity Framework Core, Dapper, ADO.NET, ASP.NET Core Identity, JWT, OAuth2 / OpenID Connect, SignalR, Hangfire / background workers, MediatR)
+- **Testing** xUnit - Postman - Swagger/OpenAPI
+- **Base de Datos** MySQL - SQL Server - QDrant - Redis
 - **Virtualización / Containerization** Docker 
-- **Cloud** Azure - Vercel - Don Web
+- **Cloud** Aws - Vercel - Don Web - Seenode
 - **Control de Versiones** Git - GitHub - GitLab
 - **Frontend / Web** HTML5, CSS3, Typescript, Angular, React, Bootstrap, TailwindCSS
 
